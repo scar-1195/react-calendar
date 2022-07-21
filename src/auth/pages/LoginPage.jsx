@@ -39,7 +39,7 @@ export const LoginPage = () => {
 
   const registerSubmit = event => {
     event.preventDefault();
-    
+
     if (registerPassword !== registerPassword2) {
       Swal.fire('Error en registro', 'Contraseñas no son iguales', 'error');
       return;

@@ -1,8 +1,6 @@
 # Calendar App
 
-### This is a calendar application where you can save events, modify them and delete them. At the moment it is only the graphical interface and the events are stored in a store made with redux-toolkit.
-
-### Now the application has interaction with the backend for the authorization part, only the CRUD is missing for the events that will be saved in mogo DB
+### This is a calendar application where you can save events, modify them and delete them. These are stored in a database (mongoDB)
 
 ## Available Scripts
 
